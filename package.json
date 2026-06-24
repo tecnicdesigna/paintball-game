@@ -1,0 +1,11 @@
+{
+  "name": "paintball-online",
+  "version": "1.0.0",
+  "description": "Online Paintball Color Ball Game - 20 Players",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
